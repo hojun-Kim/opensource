@@ -1,6 +1,6 @@
 # opensource
 
-# 🚀 Awesome Project
+# 🚀 Open Source Project
 
 ## 📜 소개 (Introduction)
 
@@ -16,10 +16,12 @@
 
   ![프로젝트 로고](https_url_to_your_logo.png)
 
-  ```python
+```
+python
 def hello_world():
     print("Hello, Open Source!")
 ```
+
 
 | 기능 (Feature) | 설명 (Description) | 상태 (Status) |
 | :------------- | :----------------- | :-----------: |
