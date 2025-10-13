@@ -1,43 +1,27 @@
 # opensource
 
-# 🚀 Open Source Project
+#  Open Source Project
 
-## 📜 소개 (Introduction)
+##  소개 (Introduction)
 
-이 프로젝트는 ...
+웹캠 기반 실시간 표정 분석을 통해 학습자 집중도 관리
 
 ---
 
 ## ✨ 주요 기능 (Features)
 
-- 기능 1
-- 기능 2
-
-
-  ![프로젝트 로고](https_url_to_your_logo.png)
-
-```
-python
-def hello_world():
-    print("Hello, Open Source!")
-```
+- 웹캠을 통해 실시간으로 사용자 표정 감지
+- 학습자 수업 정보 데이터화
 
 
 | 기능 (Feature) | 설명 (Description) | 상태 (Status) |
 | :------------- | :----------------- | :-----------: |
-| 기능 A         | 핵심 기능입니다.   |      ✅       |
-| 기능 B         | 개발 중입니다.     |      🚧       |
-| 기능 C         | 예정된 기능입니다. |      ⏳       |
+| 학습자 얼굴 인식        | 핵심 기능   |             |
+| 표정을 통해 현재 상태 확인        | 핵심 기능     |             |
+| 특정 상태 시 메세지 출력         | -- |             |
+| 상태 데이터 시각화      | -- |             |
 
-<details>
-<summary>자세한 설치 방법을 보려면 클릭하세요 (Click to see detailed installation instructions)</summary>
-
-1.  **의존성 설치 (Install dependencies):**
-    ```bash
-    pip install -r requirements.txt
-    ```
-2.  **프로그램 실행 (Run the program):**
-    ```bash
-    python main.py
-    ```
-</details>
+참고 사이트
+[참고 논문](https://koreascience.or.kr/article/JAKO202006763002291.page)
+[관련 사이트](https://magicode.tistory.com/72)
+[관련 github](https://github.com/jhan15/facial_emotion_recognition?tab=readme-ov-file)
