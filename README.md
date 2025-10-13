@@ -22,6 +22,7 @@
 | 상태 데이터 시각화      | -- |             |
 
 참고 사이트
-[참고 논문](https://koreascience.or.kr/article/JAKO202006763002291.page)
+[참고 논문](https://koreascience.or.kr/article/JAKO202006763002291.page)\n
+
 [관련 사이트](https://magicode.tistory.com/72)
 [관련 github](https://github.com/jhan15/facial_emotion_recognition?tab=readme-ov-file)
