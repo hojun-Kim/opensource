@@ -1,0 +1,26 @@
+최종 목표: dataset_3class 라는 새 폴더를 만들고, 3가지 종류의 얼굴 이미지를 채워 넣습니다.
+
+1단계: "최고의 데이터" 조합하기 (Data Preparation)
+dataset_daisee_4class 폴더는 더 이상 사용하지 않습니다. dataset_3class 라는 새 폴더를 만드세요.
+
+0_drowsy (졸림) 폴더
+
+소스: NTHU-DDD 데이터셋 (졸림 운전 데이터)
+
+할 일: Kaggle의 NTHU-DDD 이미지 데이터셋 (2.3GB)을 다운로드합니다.
+
+폴더에 넣기: 압축 해제 후 Drowsy 폴더 안의 이미지 80%를 dataset_3class/train/0_drowsy/에, 20%를 dataset_3class/validation/0_drowsy/에 넣습니다.
+
+2_neutral (집중) 폴더
+
+소스: FER-2013 데이터셋 (기본 감정 데이터)
+
+할 일: Kaggle의 FER-2013 이미지 폴더 (98MB)를 다운로드합니다.
+
+폴더에 넣기: 압축 해제 후 train/neutral 폴더의 이미지 전체를 dataset_3class/train/2_neutral/에, test/neutral 폴더의 이미지 전체를 dataset_3class/validation/2_neutral/에 넣습니다.
+
+0_boredom (지루함) 폴더
+
+소스: DAiSEE 데이터셋 (보유 중)
+
+할 일: 새로운 prepare_boredom_only.py 스크립트를 실행해야 합니다. 이 스크립트는 Labels 파일을 읽어 'Boredom' 점수가 높은 비디오에서만 얼굴을 추출하여 dataset_3class/train/0_boredom/과 dataset_3class/validation/0_boredom/에 저장합니다.
