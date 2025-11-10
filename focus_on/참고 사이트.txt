@@ -1,0 +1,14 @@
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://koreascience.kr/article/JAKO202006763002291.pdf
+
+https://koreascience.or.kr/article/JAKO202006763002291.page
+
+
+https://magicode.tistory.com/72
+
+https://github.com/jhan15/facial_emotion_recognition?tab=readme-ov-file
+
+졸림 데이터 셋
+https://www.kaggle.com/datasets/banudeep/nthuddd2/data
+
+지루함 데이터셋
+https://datasets.activeloop.ai/docs/ml/datasets/daisee-dataset/
